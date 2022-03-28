@@ -13,7 +13,7 @@
 This project was created to demonstrate how to customize a `FSCalendar` cell and to help answer this [StackOverflow question](https://stackoverflow.com/questions/58424445/how-to-customise-cell-in-fscalendar).
 
 ## UI
-[Calendar Cell example](/Screenshots/CalendarCellExample.png)
+<img src="/Screenshots/CalendarCellExample.png" width="185" height="400">
 
 ## Authors
 * **Enrique Melgarejo**
